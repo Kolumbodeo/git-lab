@@ -19,3 +19,7 @@ Auther: Mason Twining <mt992324@ohio.edu>
 Date    Wed Sep 3 17:11:58 2025 -0400
 
 Answer 9: It says my branch is up to date with 'original/main'
+
+Answer 10: the changes I made were not shown in the window
+
+Answer 11: 
