@@ -22,4 +22,6 @@ Answer 9: It says my branch is up to date with 'original/main'
 
 Answer 10: the changes I made were not shown in the window
 
-Answer 11: 
+Answer 11: An error code appeared when I tried to push it
+
+Answer 12:
