@@ -25,3 +25,5 @@ Answer 10: the changes I made were not shown in the window
 Answer 11: An error code appeared when I tried to push it
 
 Answer 12: after using git pull, my README.md got the line of code that was inputted on Github
+
+Answer 13: . .. git-lab-2 Labs
